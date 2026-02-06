@@ -1,18 +1,23 @@
+# 👋 Olá, me chamo Divino Henrique Arantes
 
-## Olá, me chamo Divino Henrique Arantes👋 
-<br>
-<div>
-Atuo como Desenvolvedor de Software na Ipê Web e curso Bacharelado em Sistemas de Informação na Universidade Estadual de Goiás (UEG). Aqui você encontra alguns dos meus projetos, onde estou sempre em busca de mais conhecimento.
-</div><br>
+### 💼 Desenvolvedor Fullstack | 🎓 Estudante de Sistemas de Informação
 
- Aonde me encontrar:
+---
 
-</div><br>
-  <a href="https://www.linkedin.com/in/dhenriquearantes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dhenriquearantes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+## 🚀 Sobre mim
 
- ### 
- <div align="center">
-  Be brave 🎯
- </div>
+Atuo como **Desenvolvedor Fullstack** na **Ipê Web** e curso **Bacharelado em Sistemas de Informação** na Universidade Estadual de Goiás (UEG). 
+
+Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Aqui você encontra alguns dos meus projetos e experimentações com diferentes tecnologias.
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhenriquearantes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/divinoharantes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhenriquearantes@gmail.com)
+
+---
+
+### 🎯 *Be brave*
